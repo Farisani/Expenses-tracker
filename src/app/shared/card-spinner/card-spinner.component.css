@@ -1,0 +1,6 @@
+::ng-deep.card__spinner .mat-spinner {
+    margin: 0 auto;
+}
+::ng-deep.card__spinner .mat-progress-spinner circle, ::ng-deep.card__spinner .mat-spinner circle {
+    stroke: #2196f3;
+}
